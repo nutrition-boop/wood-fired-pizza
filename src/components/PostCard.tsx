@@ -1,17 +1,17 @@
-import Image from "next/image";
 import Link from "next/link";
 import type { PostMeta } from "@/lib/posts";
 
 export default function PostCard({ post }: { post: PostMeta }) {
   return (
     <Link href={`/blog/${post.slug}`} className="post-card" id={`post-${post.slug}`}>
-      <Image
+      <img
         className="post-card-image"
         src={post.coverImage}
         alt={post.title}
-        width={600}
-        height={338}
-        unoptimized
+        width="600"
+        height="338"
+        loading="lazy"
+        decoding="async"
       />
       <div className="post-card-body">
         <div className="post-card-meta">
