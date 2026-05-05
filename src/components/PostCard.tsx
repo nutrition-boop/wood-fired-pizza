@@ -11,6 +11,7 @@ export default function PostCard({ post }: { post: PostMeta }) {
         alt={post.title}
         width={600}
         height={338}
+        unoptimized
       />
       <div className="post-card-body">
         <div className="post-card-meta">
