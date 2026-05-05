@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getPostBySlug, getAllSlugs, getAllPosts } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -73,8 +74,15 @@ export default async function BlogPostPage({
       </section>
 
       {post.coverImage && post.coverImage !== "/images/default-cover.jpg" && (
-        <div className="post-cover">
-          <img src={post.coverImage} alt={post.title} />
+        <div className="post-cover" style={{ position: 'relative', width: '100%', height: 'auto', minHeight: '300px' }}>
+          <Image 
+            src={post.coverImage} 
+            alt={post.title} 
+            width={1200}
+            height={675}
+            priority
+            style={{ width: '100%', height: 'auto', display: 'block' }}
+          />
         </div>
       )}
 
