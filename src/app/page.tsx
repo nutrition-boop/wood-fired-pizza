@@ -27,18 +27,14 @@ export default function HomePage() {
           <h2 className="section-title">Featured Article</h2>
           <p className="section-subtitle">Our top pick for you</p>
           <Link href={`/blog/${featuredPost.slug}`} className="featured-card">
-            <div className="post-card-image-wrapper" style={{ width: '100%', height: '100%', position: 'relative' }}>
-              <Image
-                className="post-card-image"
-                src={featuredPost.coverImage}
-                alt={featuredPost.title}
-                width={800}
-                height={450}
-                style={{ objectFit: 'cover' }}
-                sizes="(max-width: 768px) 100vw, 50vw"
-                priority
-              />
-            </div>
+            <Image
+              className="post-card-image"
+              src={featuredPost.coverImage}
+              alt={featuredPost.title}
+              width={800}
+              height={450}
+              priority
+            />
             <div className="post-card-body">
               <span className="featured-badge">🔥 Featured</span>
               <span className="post-card-category">

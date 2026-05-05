@@ -5,17 +5,13 @@ import type { PostMeta } from "@/lib/posts";
 export default function PostCard({ post }: { post: PostMeta }) {
   return (
     <Link href={`/blog/${post.slug}`} className="post-card" id={`post-${post.slug}`}>
-      <div className="post-card-image-wrapper">
-        <Image
-          className="post-card-image"
-          src={post.coverImage}
-          alt={post.title}
-          width={600}
-          height={338}
-          style={{ objectFit: 'cover' }}
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-        />
-      </div>
+      <Image
+        className="post-card-image"
+        src={post.coverImage}
+        alt={post.title}
+        width={600}
+        height={338}
+      />
       <div className="post-card-body">
         <div className="post-card-meta">
           <span className="post-card-category">{post.category}</span>

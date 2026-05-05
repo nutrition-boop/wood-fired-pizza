@@ -74,14 +74,14 @@ export default async function BlogPostPage({
       </section>
 
       {post.coverImage && post.coverImage !== "/images/default-cover.jpg" && (
-        <div className="post-cover" style={{ position: 'relative', width: '100%', height: 'auto', minHeight: '300px' }}>
+        <div className="post-cover">
           <Image 
             src={post.coverImage} 
             alt={post.title} 
             width={1200}
             height={675}
             priority
-            style={{ width: '100%', height: 'auto', display: 'block' }}
+            className="post-cover-img"
           />
         </div>
       )}
