@@ -20,6 +20,7 @@ export default function Comments({ postSlug }: { postSlug: string }) {
   useEffect(() => {
     const saved = localStorage.getItem(`comments_${postSlug}`);
     if (saved) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setComments(JSON.parse(saved));
     }
   }, [postSlug]);
