@@ -34,6 +34,7 @@ export default function HomePage() {
               width={800}
               height={450}
               priority
+              unoptimized
             />
             <div className="post-card-body">
               <span className="featured-badge">🔥 Featured</span>

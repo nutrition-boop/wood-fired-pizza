@@ -81,7 +81,8 @@ export default async function BlogPostPage({
             width={1200}
             height={675}
             priority
-            className="post-cover-img"
+            unoptimized
+            className="post-cover-image"
           />
         </div>
       )}
