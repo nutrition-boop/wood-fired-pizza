@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   },
   description:
     "Your ultimate resource for wood-fired pizza ovens. Expert reviews, authentic recipes, building guides, and tips to master the art of wood-fired cooking.",
-  metadataBase: new URL("https://www.wood-fired-pizza-oven.us"),
+  metadataBase: new URL("https://wood-fired-pizza-oven.us"),
   openGraph: {
     type: "website",
     locale: "en_US",

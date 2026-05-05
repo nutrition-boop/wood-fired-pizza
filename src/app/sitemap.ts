@@ -2,7 +2,7 @@ import { getAllPosts } from "@/lib/posts";
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://www.wood-fired-pizza-oven.us";
+  const baseUrl = "https://wood-fired-pizza-oven.us";
   const posts = getAllPosts();
 
   const blogEntries: MetadataRoute.Sitemap = posts.map((post) => ({

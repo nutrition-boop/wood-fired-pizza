@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.wood-fired-pizza-oven.us/sitemap.xml",
+    sitemap: "https://wood-fired-pizza-oven.us/sitemap.xml",
   };
 }

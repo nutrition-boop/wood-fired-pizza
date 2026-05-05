@@ -17,7 +17,7 @@ export default function PrivacyPolicyPage() {
           <div className="article" id="privacy-content">
             <h2>Introduction</h2>
             <p>
-              At Wood Fired Pizza Oven, accessible from www.wood-fired-pizza-oven.us, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Wood Fired Pizza Oven and how we use it.
+              At Wood Fired Pizza Oven, accessible from wood-fired-pizza-oven.us, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Wood Fired Pizza Oven and how we use it.
             </p>
             <p>
               If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.

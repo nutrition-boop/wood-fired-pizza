@@ -17,7 +17,7 @@ export default function TermsOfServicePage() {
           <div className="article" id="terms-content">
             <h2>Welcome to Wood Fired Pizza Oven</h2>
             <p>
-              These terms and conditions outline the rules and regulations for the use of Wood Fired Pizza Oven&apos;s Website, located at www.wood-fired-pizza-oven.us.
+              These terms and conditions outline the rules and regulations for the use of Wood Fired Pizza Oven&apos;s Website, located at wood-fired-pizza-oven.us.
             </p>
             <p>
               By accessing this website we assume you accept these terms and conditions. Do not continue to use Wood Fired Pizza Oven if you do not agree to take all of the terms and conditions stated on this page.
