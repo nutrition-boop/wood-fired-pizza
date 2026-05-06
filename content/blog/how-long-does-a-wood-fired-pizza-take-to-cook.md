@@ -124,7 +124,7 @@ Here's a typical cooking timeline for a Neapolitan pizza at 850°F:
 6. **1:15** — Top is finishing, cheese has brown spots, crust has leopard spotting
 7. **1:20-1:30** — Pull the pizza out. It's done!
 
-The whole thing happens incredibly fast. If it's your first time, don't look away for even a few seconds.
+The whole thing happens incredibly fast. If it's your first time, don't look away for even a few seconds. That's because wood fired ovens are incredibly hot (often [reaching over 900°F](/blog/how-hot-do-wood-fired-pizza-ovens-get)), and that extreme heat is the secret to the perfect pizza.
 
 ## Signs Your Pizza Is Done
 
