@@ -24,7 +24,7 @@ Shaped like a half-cylinder, this design is simpler to build because you're work
 
 ### Igloo / Dome Oven
 
-The classic Neapolitan-style oven. The dome shape is more efficient at reflecting heat and creates better airflow (read more about [how a wood fired pizza oven works](/how-does-a-wood-fired-pizza-oven-work)). It's harder to build (cutting bricks at angles to form a curve), but it performs better overall.
+The classic Neapolitan-style oven. The dome shape is more efficient at reflecting heat and creates better airflow (read more about [how a wood fired pizza oven works](/blog/how-does-a-wood-fired-pizza-oven-work)). It's harder to build (cutting bricks at angles to form a curve), but it performs better overall.
 
 ### Pompeii Oven
 

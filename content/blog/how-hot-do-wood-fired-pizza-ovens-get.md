@@ -16,7 +16,7 @@ Let's dig into the numbers.
 
 ## The Temperature Range
 
-A well-built, properly heated wood fired pizza oven (especially when using the [right wood](/how-to-choose-the-firewood), or a [mix of wood and charcoal](/can-you-use-charcoal-in-a-wood-fired-pizza-oven)) reaches temperatures between **700°F and 1,000°F** (370°C to 540°C).
+A well-built, properly heated wood fired pizza oven (especially when using the [right wood](/how-to-choose-the-firewood), or a [mix of wood and charcoal](/blog/can-you-use-charcoal-in-a-wood-fired-pizza-oven)) reaches temperatures between **700°F and 1,000°F** (370°C to 540°C).
 
 Here's how that breaks down:
 

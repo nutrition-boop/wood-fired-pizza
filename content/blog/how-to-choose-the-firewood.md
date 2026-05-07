@@ -16,7 +16,7 @@ In this guide, we’ll break down exactly how to choose the firewood that will t
 
 When it comes to wood fired ovens, **hardwood is non-negotiable.** Hardwoods come from deciduous trees (trees that lose their leaves in the fall) and are much denser than softwoods.
 
-Because they are dense, hardwoods burn hotter and longer. This is critical for [reaching the 800-900°F temperatures](/how-hot-do-wood-fired-pizza-ovens-get) required for authentic Neapolitan pizza.
+Because they are dense, hardwoods burn hotter and longer. This is critical for [reaching the 800-900°F temperatures](/blog/how-hot-do-wood-fired-pizza-ovens-get) required for authentic Neapolitan pizza.
 
 ### Top Hardwood Recommendations
 
@@ -58,7 +58,7 @@ For the best results, your wood should have a moisture content between **15% and
 The size of your wood matters just as much as the type.
 
 - **For Starting**: Use small kindling (about the size of your thumb) to get the fire going.
-- **For Heating**: Use medium-sized splits (2-3 inches wide). These catch fire quickly and help [bring the oven up to temperature](/how-does-a-wood-fired-pizza-oven-work).
+- **For Heating**: Use medium-sized splits (2-3 inches wide). These catch fire quickly and help [bring the oven up to temperature](/blog/how-does-a-wood-fired-pizza-oven-work).
 - **For Cooking**: Use 3-4 inch thick logs. These will create a solid bed of coals that maintains the floor temperature between pizzas.
 
 ## Summary Checklist for Firewood
@@ -75,4 +75,4 @@ The size of your wood matters just as much as the type.
 
 Never, under any circumstances, burn pressure-treated wood, painted wood, or pallets. These are full of toxic chemicals that will leach into your oven stones and your food. Stick to natural, clean firewood for a safe and delicious experience.
 
-Now that you've got the right wood, you're ready to master the fire. If you're wondering what else you can do with that heat, check out our guide on [what else you can cook in a pizza oven](/what-else-can-you-cook-in-a-pizza-oven).
+Now that you've got the right wood, you're ready to master the fire. If you're wondering what else you can do with that heat, check out our guide on [what else you can cook in a pizza oven](/blog/what-else-can-you-cook-in-a-pizza-oven).

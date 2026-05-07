@@ -95,7 +95,7 @@ This should go without saying, but don't use activated charcoal for cooking fuel
 A few important safety notes when using charcoal:
 
 - **Ventilation**: Charcoal produces carbon monoxide when burning. Always use it in a well-ventilated outdoor oven. Never use charcoal in an indoor oven or enclosed space.
-- **Temperature control**: Charcoal can burn very hot. (Curious about exact numbers? See [how hot wood fired pizza ovens get](/how-hot-do-wood-fired-pizza-ovens-get)). Keep an infrared thermometer handy so your oven floor doesn't get too hot (which will burn your pizza before it's cooked through).
+- **Temperature control**: Charcoal can burn very hot. (Curious about exact numbers? See [how hot wood fired pizza ovens get](/blog/how-hot-do-wood-fired-pizza-ovens-get)). Keep an infrared thermometer handy so your oven floor doesn't get too hot (which will burn your pizza before it's cooked through).
 - **Ash management**: Charcoal produces ash, though less than wood. Sweep the cooking floor before placing food.
 - **Don't use lighter fluid**: Use a chimney starter or natural fire starters instead. Lighter fluid leaves residue that affects flavor.
 

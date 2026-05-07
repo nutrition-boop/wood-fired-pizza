@@ -40,7 +40,7 @@ Electric pizza ovens (especially countertop models like the Ooni Volt or Brevill
 
 ### Wood Fired
 
-A properly heated wood fired oven reaches **700-1,000°F**. At these temperatures, a pizza cooks in **60-90 seconds** (see our [full timing guide](/how-long-does-a-wood-fired-pizza-take-to-cook)). That's lightning fast and produces an incredible texture — crispy outside, soft inside.
+A properly heated wood fired oven reaches **700-1,000°F**. At these temperatures, a pizza cooks in **60-90 seconds** (see our [full timing guide](/blog/how-long-does-a-wood-fired-pizza-take-to-cook)). That's lightning fast and produces an incredible texture — crispy outside, soft inside.
 
 The downside? It takes **45-60 minutes** to heat up a traditional wood fired oven. You can't just turn it on and go. Portable models like the Ooni Fyra heat up in about 15-20 minutes, which is much faster.
 
@@ -74,7 +74,7 @@ Let's be honest — wood fired ovens are the **least convenient** option. You ne
 - Clean out ash afterward
 - Deal with smoke (which your neighbors may not love)
 
-It's a process. Some people love the ritual of it — whether that's [building your own backyard oven](/how-to-build-a-backyard-wood-fired-pizza-oven) or just building the fire, tending the flames, the whole experience. Others find it a hassle for a weeknight dinner.
+It's a process. Some people love the ritual of it — whether that's [building your own backyard oven](/blog/how-to-build-a-backyard-wood-fired-pizza-oven) or just building the fire, tending the flames, the whole experience. Others find it a hassle for a weeknight dinner.
 
 ### Gas
 

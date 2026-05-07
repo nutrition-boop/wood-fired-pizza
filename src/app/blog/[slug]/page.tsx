@@ -121,7 +121,7 @@ export default async function BlogPostPage({
             <ul className="widget-list">
               {recentPosts.map(rp => (
                 <li key={rp.slug}>
-                  <Link href={`/${rp.slug}`}>
+                  <Link href={rp.slug === "how-to-choose-the-firewood" ? `/${rp.slug}` : `/blog/${rp.slug}`}>
                     <span className="widget-post-title">{rp.title}</span>
                     <span className="widget-post-date">{new Date(rp.date).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
                   </Link>

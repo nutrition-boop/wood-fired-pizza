@@ -26,7 +26,10 @@ export default function HomePage() {
         <section className="section" id="featured-section">
           <h2 className="section-title">Featured Article</h2>
           <p className="section-subtitle">Our top pick for you</p>
-          <Link href={`/${featuredPost.slug}`} className="featured-card">
+          <Link 
+            href={featuredPost.slug === "how-to-choose-the-firewood" ? `/${featuredPost.slug}` : `/blog/${featuredPost.slug}`} 
+            className="featured-card"
+          >
             <Image
               className="post-card-image"
               src={featuredPost.coverImage}

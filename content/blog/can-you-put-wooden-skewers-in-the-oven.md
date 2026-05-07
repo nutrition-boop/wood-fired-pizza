@@ -8,7 +8,7 @@ category: "Tips"
 tags: ["safety", "grilling", "skewers", "cooking tips"]
 ---
 
-Wooden skewers are a staple for backyard BBQs and indoor roasting alike. They’re cheap, convenient, and perfect for kabobs. But when you’re dealing with the extreme temperatures of a wood-fired pizza oven—which can easily hit 800°F (read more about [how hot pizza ovens get](/how-hot-do-wood-fired-pizza-ovens-get))—the rules change.
+Wooden skewers are a staple for backyard BBQs and indoor roasting alike. They’re cheap, convenient, and perfect for kabobs. But when you’re dealing with the extreme temperatures of a wood-fired pizza oven—which can easily hit 800°F (read more about [how hot pizza ovens get](/blog/how-hot-do-wood-fired-pizza-ovens-get))—the rules change.
 
 Can you actually put wooden skewers in the oven? The short answer is **yes**, but you need to follow some specific safety rules to avoid turning your dinner into kindling.
 

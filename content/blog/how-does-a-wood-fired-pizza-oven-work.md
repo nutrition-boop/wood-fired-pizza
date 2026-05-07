@@ -80,7 +80,7 @@ The fire stays burning while you cook. This maintains the temperature and contin
 
 A wood fired oven can reach temperatures between **700°F and 1,000°F** (370°C to 540°C). Compare that to your home oven, which usually maxes out around 500°F.
 
-At these extreme temperatures, a pizza cooks in **60 to 90 seconds** (check out our guide on [how long a wood fired pizza takes to cook](/how-long-does-a-wood-fired-pizza-take-to-cook) for different styles). That speed is actually important — it means the crust gets crispy and charred on the outside while the inside stays soft and airy. The toppings heat through quickly without overcooking, and the cheese melts perfectly without drying out.
+At these extreme temperatures, a pizza cooks in **60 to 90 seconds** (check out our guide on [how long a wood fired pizza takes to cook](/blog/how-long-does-a-wood-fired-pizza-take-to-cook) for different styles). That speed is actually important — it means the crust gets crispy and charred on the outside while the inside stays soft and airy. The toppings heat through quickly without overcooking, and the cheese melts perfectly without drying out.
 
 If you cooked a pizza that fast in a regular oven (assuming it could get that hot), you'd get similar results. But regular ovens just can't reach those temperatures.
 

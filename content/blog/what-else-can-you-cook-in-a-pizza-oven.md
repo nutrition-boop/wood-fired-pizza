@@ -8,7 +8,7 @@ category: "Recipes"
 tags: ["creative cooking", "recipes", "versatility", "wood fired"]
 ---
 
-By now, most wood-fired oven owners know they can roast a chicken or bake a loaf of sourdough (check out our [main guide on what to cook in a pizza oven](/what-can-you-cook-in-a-wood-fired-pizza-oven)). Those are the classics. But the true beauty of a masonry or portable wood-fired oven lies in its ability to handle almost any culinary challenge you throw at it.
+By now, most wood-fired oven owners know they can roast a chicken or bake a loaf of sourdough (check out our [main guide on what to cook in a pizza oven](/blog/what-can-you-cook-in-a-wood-fired-pizza-oven)). Those are the classics. But the true beauty of a masonry or portable wood-fired oven lies in its ability to handle almost any culinary challenge you throw at it.
 
 If you’re looking to push the boundaries of your outdoor kitchen, here are five surprising things you can (and should) be cooking in your pizza oven.
 
