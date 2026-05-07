@@ -35,13 +35,13 @@ export default function Header() {
               Calculators ▾
             </span>
             <div className="dropdown-menu">
-              <Link href="/calculators/neapolitan" onClick={() => setMenuOpen(false)}>
+              <Link href="/calculators/neapolitan-pizza-dough-calculator" onClick={() => setMenuOpen(false)}>
                 Neapolitan Calculator
               </Link>
-              <Link href="/calculators/poolish" onClick={() => setMenuOpen(false)}>
+              <Link href="/calculators/poolish-pizza-dough-calculator" onClick={() => setMenuOpen(false)}>
                 Poolish Calculator
               </Link>
-              <Link href="/calculators/biga" onClick={() => setMenuOpen(false)}>
+              <Link href="/calculators/biga-pizza-dough-calculator" onClick={() => setMenuOpen(false)}>
                 Biga Calculator
               </Link>
             </div>

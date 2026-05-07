@@ -50,7 +50,7 @@ export default async function BlogPostPage({
   const allPosts = getAllPosts();
   const recentPosts = allPosts.filter(p => p.slug !== slug).slice(0, 4);
 
-  if (!post) {
+  if (!post || slug === "how-to-choose-the-firewood") {
     notFound();
   }
 

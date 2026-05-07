@@ -32,19 +32,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/calculators/neapolitan`,
+      url: `${baseUrl}/calculators/neapolitan-pizza-dough-calculator`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/calculators/poolish`,
+      url: `${baseUrl}/calculators/poolish-pizza-dough-calculator`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/calculators/biga`,
+      url: `${baseUrl}/calculators/biga-pizza-dough-calculator`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,

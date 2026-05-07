@@ -11,21 +11,21 @@ export default function CalculatorsHubPage() {
   const calculators = [
     {
       title: "Neapolitan Calculator",
-      slug: "neapolitan",
+      slug: "neapolitan-pizza-dough-calculator",
       description: "The traditional direct method for authentic wood-fired pizza. Standard AVPN ratios.",
       icon: "🍕",
       color: "var(--color-accent)"
     },
     {
       title: "Poolish Calculator",
-      slug: "poolish",
+      slug: "poolish-pizza-dough-calculator",
       description: "Use a liquid pre-ferment for an incredibly light and aromatic crust with big bubbles.",
       icon: "🍯",
       color: "#ff9f1c"
     },
     {
       title: "Biga Calculator",
-      slug: "biga",
+      slug: "biga-pizza-dough-calculator",
       description: "A stiff Italian pre-ferment that adds maximum flavor and structure to high-hydration doughs.",
       icon: "🍞",
       color: "#ff7a45"

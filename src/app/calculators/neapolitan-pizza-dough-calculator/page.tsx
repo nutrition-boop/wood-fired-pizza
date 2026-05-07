@@ -24,21 +24,15 @@ export default function NeapolitanCalculatorPage() {
         />
 
         <div className="article">
-          <h2>The Science of Neapolitan Pizza Dough</h2>
+          <h3>The Baker's Percentage Formula</h3>
           <p>
-            Authentic Neapolitan pizza (Pizza Napoletana) is defined by its simplicity and strict ratios. According to the AVPN (Associazione Verace Pizza Napoletana), the dough must consist only of flour, water, salt, and yeast. No oil, no sugar.
+            Our calculator uses the <strong>Baker's Percentage</strong> system. In this method, every ingredient is calculated as a percentage of the total flour weight (which is always 100%). This ensures perfect consistency regardless of whether you are making 2 pizzas or 200.
           </p>
-          
-          <h3>Key Ratios for Success</h3>
-          <ul>
-            <li><strong>Hydration:</strong> Typically between 58% and 65%. Higher hydration results in a lighter, more airy crust but requires better handling skills.</li>
-            <li><strong>Salt:</strong> Usually 2.5% to 3.0%. Salt doesn't just add flavor; it strengthens the gluten structure and controls yeast fermentation.</li>
-            <li><strong>Flour:</strong> Use highly refined "00" flour with a medium-to-high protein content (11-13%) and a W-value between 250 and 310.</li>
-          </ul>
+          <pre><code>Ingredient Weight = (Total Flour Weight × Ingredient %) / 100</code></pre>
 
-          <h3>Fermentation is Key</h3>
+          <h3>Why Use Our Neapolitan Calculator?</h3>
           <p>
-            A true Neapolitan dough needs time. While our calculator gives you the ingredients, the magic happens during the 8 to 24-hour fermentation period. For the best results, use room temperature fermentation for the first 2 hours, then ball the dough and let it rest for another 6-20 hours.
+            Unlike generic calculators, our tool is calibrated for the <strong>high-heat environment</strong> of wood-fired ovens. It accounts for the rapid moisture loss that occurs at 900°F and recommends hydration levels (58-65%) that prevent the dough from becoming too tough or too soggy.
           </p>
 
           <blockquote>
@@ -53,6 +47,16 @@ export default function NeapolitanCalculatorPage() {
             <li><strong>Knead:</strong> Gradually add the remaining flour and knead for 10-15 minutes until the dough is smooth, elastic, and reaches a temperature of about 23-26°C.</li>
             <li><strong>Rest and Ball:</strong> Cover the dough and let it rest for 2 hours. Divide into balls (typically 250g each) and place in a proofing box for the final 6-24 hours.</li>
           </ol>
+
+          <FAQAccordion 
+            faqs={[
+              { question: "What is the best flour for Neapolitan pizza?", answer: "Always use Tipo 00 flour with a medium-high protein content (11-13%). Brands like Antimo Caputo are the gold standard." },
+              { question: "Why is there no oil in this recipe?", answer: "Traditional Neapolitan pizza (AVPN) forbids oil. Oil is used in lower-temp ovens to help browning, but at 900°F, it would burn and ruin the flavor." },
+              { question: "How long should I ferment the dough?", answer: "At least 8 hours at room temperature, or up to 24-48 hours if using a cold ferment in the refrigerator." },
+              { question: "What is the ideal dough ball weight?", answer: "A standard 12-inch Neapolitan pizza typically uses a dough ball between 250g and 280g." },
+              { question: "Can I use active dry yeast?", answer: "Yes, but you should dissolve it in warm water first. Our calculator assumes Instant Dry Yeast (IDY) for simplicity." }
+            ]} 
+          />
         </div>
       </section>
     </main>
