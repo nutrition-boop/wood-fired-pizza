@@ -20,7 +20,7 @@ At peak temperature (800-900°F), a standard Neapolitan-style pizza cooks in **6
 
 That's not an exaggeration. One minute to ninety seconds, and it's done.
 
-But that's at peak temp with a thin-crust pizza. Other styles and situations take longer. And if you're making something besides pizza, check out [what else you can cook in a wood fired oven](/blog/what-can-you-cook-in-a-wood-fired-pizza-oven).
+But that's at peak temp with a thin-crust pizza. Other styles and situations take longer. And if you're making something besides pizza, check out [what else you can cook in a wood fired oven](/what-can-you-cook-in-a-wood-fired-pizza-oven).
 
 ## Cooking Times by Pizza Style
 
@@ -124,7 +124,7 @@ Here's a typical cooking timeline for a Neapolitan pizza at 850°F:
 6. **1:15** — Top is finishing, cheese has brown spots, crust has leopard spotting
 7. **1:20-1:30** — Pull the pizza out. It's done!
 
-The whole thing happens incredibly fast. If it's your first time, don't look away for even a few seconds. That's because wood fired ovens are incredibly hot (often [reaching over 900°F](/blog/how-hot-do-wood-fired-pizza-ovens-get)), and that extreme heat is the secret to the perfect pizza.
+The whole thing happens incredibly fast. If it's your first time, don't look away for even a few seconds. That's because wood fired ovens are incredibly hot (often [reaching over 900°F](/how-hot-do-wood-fired-pizza-ovens-get)), and that extreme heat is the secret to the perfect pizza.
 
 ## Signs Your Pizza Is Done
 

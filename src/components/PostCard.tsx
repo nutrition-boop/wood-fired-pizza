@@ -3,7 +3,7 @@ import type { PostMeta } from "@/lib/posts";
 
 export default function PostCard({ post }: { post: PostMeta }) {
   return (
-    <Link href={`/blog/${post.slug}`} className="post-card" id={`post-${post.slug}`}>
+    <Link href={`/${post.slug}`} className="post-card" id={`post-${post.slug}`}>
       <img
         className="post-card-image"
         src={post.coverImage}

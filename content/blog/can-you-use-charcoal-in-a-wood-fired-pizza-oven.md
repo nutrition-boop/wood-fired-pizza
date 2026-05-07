@@ -43,7 +43,7 @@ The smartest way to use charcoal in a wood fired oven is as a **supplement to wo
 Here's a method that works really well:
 
 1. **Start with charcoal as your base**. Build a bed of charcoal and light it. Charcoal provides consistent, long-lasting heat that's great for getting the oven floor hot.
-2. **Add wood on top**. Once the charcoal is glowing, add a couple of pieces of [hardwood](/blog/how-to-choose-the-firewood) on top. The wood catches fire quickly from the charcoal heat and provides the flames you need.
+2. **Add wood on top**. Once the charcoal is glowing, add a couple of pieces of [hardwood](/how-to-choose-the-firewood) on top. The wood catches fire quickly from the charcoal heat and provides the flames you need.
 3. **Maintain with small wood pieces**. Keep adding small pieces of wood every 10-15 minutes to keep the flames going while the charcoal base provides steady, even heat.
 
 This combo gives you the best of both worlds — the steady heat of charcoal and the flames and flavor of wood.
@@ -95,7 +95,7 @@ This should go without saying, but don't use activated charcoal for cooking fuel
 A few important safety notes when using charcoal:
 
 - **Ventilation**: Charcoal produces carbon monoxide when burning. Always use it in a well-ventilated outdoor oven. Never use charcoal in an indoor oven or enclosed space.
-- **Temperature control**: Charcoal can burn very hot. (Curious about exact numbers? See [how hot wood fired pizza ovens get](/blog/how-hot-do-wood-fired-pizza-ovens-get)). Keep an infrared thermometer handy so your oven floor doesn't get too hot (which will burn your pizza before it's cooked through).
+- **Temperature control**: Charcoal can burn very hot. (Curious about exact numbers? See [how hot wood fired pizza ovens get](/how-hot-do-wood-fired-pizza-ovens-get)). Keep an infrared thermometer handy so your oven floor doesn't get too hot (which will burn your pizza before it's cooked through).
 - **Ash management**: Charcoal produces ash, though less than wood. Sweep the cooking floor before placing food.
 - **Don't use lighter fluid**: Use a chimney starter or natural fire starters instead. Lighter fluid leaves residue that affects flavor.
 

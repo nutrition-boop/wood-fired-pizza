@@ -30,6 +30,22 @@ export default function Header() {
           <Link href="/blog" onClick={() => setMenuOpen(false)}>
             Blog
           </Link>
+          <div className="dropdown">
+            <span className="dropdown-trigger">
+              Calculators ▾
+            </span>
+            <div className="dropdown-menu">
+              <Link href="/calculators/neapolitan" onClick={() => setMenuOpen(false)}>
+                Neapolitan Calculator
+              </Link>
+              <Link href="/calculators/poolish" onClick={() => setMenuOpen(false)}>
+                Poolish Calculator
+              </Link>
+              <Link href="/calculators/biga" onClick={() => setMenuOpen(false)}>
+                Biga Calculator
+              </Link>
+            </div>
+          </div>
           <Link href="/about" onClick={() => setMenuOpen(false)}>
             About
           </Link>
