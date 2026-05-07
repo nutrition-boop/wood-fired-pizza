@@ -43,7 +43,7 @@ The smartest way to use charcoal in a wood fired oven is as a **supplement to wo
 Here's a method that works really well:
 
 1. **Start with charcoal as your base**. Build a bed of charcoal and light it. Charcoal provides consistent, long-lasting heat that's great for getting the oven floor hot.
-2. **Add wood on top**. Once the charcoal is glowing, add a couple of pieces of hardwood on top. The wood catches fire quickly from the charcoal heat and provides the flames you need.
+2. **Add wood on top**. Once the charcoal is glowing, add a couple of pieces of [hardwood](/blog/how-to-choose-the-firewood) on top. The wood catches fire quickly from the charcoal heat and provides the flames you need.
 3. **Maintain with small wood pieces**. Keep adding small pieces of wood every 10-15 minutes to keep the flames going while the charcoal base provides steady, even heat.
 
 This combo gives you the best of both worlds — the steady heat of charcoal and the flames and flavor of wood.

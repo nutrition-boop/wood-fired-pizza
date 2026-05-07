@@ -68,7 +68,7 @@ The thermal mass of these materials is what allows a wood fired oven to stay hot
 
 Here's the typical process:
 
-1. **Build a fire** in the center of the oven using dry hardwood (oak, maple, cherry, etc.)
+1. **Build a fire** in the center of the oven using [dry hardwood](/blog/how-to-choose-the-firewood) (oak, maple, cherry, etc.)
 2. **Let it burn** for 45 minutes to an hour, until the dome turns from black (covered in soot) to white/clear
 3. **Push the fire** to one side or the back of the oven
 4. **Sweep the floor** with a brush to clear any ash
