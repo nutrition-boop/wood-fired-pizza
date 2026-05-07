@@ -1,6 +1,7 @@
 import React from 'react';
 import PizzaCalculator from '@/components/PizzaCalculator';
 import { Metadata } from 'next';
+import FAQAccordion from '@/components/FAQAccordion';
 
 export const metadata: Metadata = {
   title: "Neapolitan Pizza Dough Calculator | Professional AVPN Ratios",
