@@ -5,6 +5,8 @@ import Link from "next/link";
 import Comments from "@/components/Comments";
 import type { Metadata } from "next";
 
+import FAQAccordion from "@/components/FAQAccordion";
+
 const SLUG = "how-to-choose-the-firewood";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -39,8 +41,28 @@ export default async function SpecificPostPage() {
     notFound();
   }
 
+  // FAQ Schema
+  const faqSchema = post.faqs && post.faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": post.faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <main className="main">
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <section className="post-header" id="post-header">
         <div className="post-header-inner">
           <Link href="/blog" className="back-link" id="back-to-blog">
@@ -92,6 +114,10 @@ export default async function SpecificPostPage() {
             </div>
           )}
 
+          {post.faqs && post.faqs.length > 0 && (
+            <FAQAccordion faqs={post.faqs} />
+          )}
+
           <Comments postSlug={post.slug} />
         </main>
         
@@ -130,3 +156,4 @@ export default async function SpecificPostPage() {
     </main>
   );
 }
+

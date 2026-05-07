@@ -6,6 +6,17 @@ coverImage: "/images/new/unusual-oven-foods.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Recipes"
 tags: ["creative cooking", "recipes", "versatility", "wood fired"]
+faqs:
+  - question: "Can I cook breakfast in a wood-fired pizza oven?"
+    answer: "Yes! A wood-fired oven is perfect for 'one-pan' breakfasts. At around 500°F, you can cook bacon, potatoes, and eggs in a single cast-iron skillet. The radiant heat from the dome sets the eggs perfectly while giving the bacon a unique smoky char."
+  - question: "How do you roast fruit in a pizza oven?"
+    answer: "Halve fruits like peaches or pineapples, brush them with honey and butter, and place them on the oven floor for about 2 minutes. The intense heat caramelizes the natural sugars instantly, creating a rich, smoky dessert."
+  - question: "Are nachos good in a pizza oven?"
+    answer: "Nachos are incredible in a pizza oven. Because of the high radiant heat, the cheese melts and blisters in just 60-90 seconds without the chips becoming soggy, resulting in the crispiest nachos possible."
+  - question: "What can I do with leftover pizza dough?"
+    answer: "Roll it out paper-thin, brush with olive oil and sea salt, and bake at 600°F for 2 minutes. You'll create artisanal wood-fired crackers that are much better than anything you can buy at the store."
+  - question: "Is it possible to roast nuts in a pizza oven?"
+    answer: "Yes, roasting nuts is a great way to use the residual heat (250-300°F) as the oven cools down. Toss them with oil and spices and let them sit for 10-15 minutes for a gourmet, smoky snack."
 ---
 
 By now, most wood-fired oven owners know they can roast a chicken or bake a loaf of sourdough (check out our [main guide on what to cook in a pizza oven](/blog/what-can-you-cook-in-a-wood-fired-pizza-oven)). Those are the classics. But the true beauty of a masonry or portable wood-fired oven lies in its ability to handle almost any culinary challenge you throw at it.

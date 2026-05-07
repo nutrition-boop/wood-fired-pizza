@@ -6,6 +6,17 @@ coverImage: "/images/build-backyard-oven.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Building"
 tags: ["DIY", "build", "backyard", "construction", "guide"]
+faqs:
+  - question: "How much does it cost to build a backyard pizza oven?"
+    answer: "A DIY pizza oven can cost anywhere from $500 for a simple clay/cob oven to $2,000+ for a professional-grade brick oven with high-end insulation and a decorative finish."
+  - question: "Do I need a building permit for a pizza oven?"
+    answer: "This varies by location. Small portable or temporary structures usually don't need permits, but large masonry builds may require a permit for the foundation or if they are near property lines. Always check with your local municipality."
+  - question: "What are the best materials for building a pizza oven?"
+    answer: "The core should be made of firebricks and refractory mortar, which can withstand extreme heat without cracking. For insulation, ceramic fiber blankets or perlite-concrete mixes are essential to retain heat."
+  - question: "How long does it take to build a pizza oven?"
+    answer: "A dedicated DIYer can complete a basic build in 2 to 4 weekends. This includes time for the concrete foundation to cure and the multiple layers of the dome to dry."
+  - question: "Can I move my brick pizza oven after it's built?"
+    answer: "Traditional masonry ovens are permanent structures and cannot be moved once built. If you might move in the future, consider building your oven on a heavy-duty steel trailer or buying a high-quality portable unit."
 ---
 
 Building your own wood fired pizza oven is one of the most rewarding DIY projects you can take on. When you're done, you'll have a permanent outdoor cooking station that makes incredible pizza and can last for decades.

@@ -6,6 +6,17 @@ coverImage: "/images/wood-vs-gas.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Guides"
 tags: ["comparison", "gas oven", "electric oven", "wood fired"]
+faqs:
+  - question: "Which pizza oven produces the best flavor?"
+    answer: "Wood-fired ovens are the gold standard for flavor. The natural smoke from hardwoods like oak or maple infuses the crust with a complex, smoky aroma and creates a unique char that gas and electric ovens simply cannot replicate."
+  - question: "Is a gas pizza oven better than a wood-fired one?"
+    answer: "A gas oven is better for convenience and speed. It heats up in 15-20 minutes and requires no fire management or ash cleanup. However, it lacks the authentic smoky flavor and traditional ritual that many pizza enthusiasts love about wood-fired cooking."
+  - question: "Can electric pizza ovens reach high enough temperatures?"
+    answer: "High-end electric pizza ovens can reach 800-900°F, which is sufficient for making a decent Neapolitan-style pizza. However, budget models often max out at 500-600°F, which results in longer cook times and a different crust texture."
+  - question: "Which type of pizza oven is the most versatile?"
+    answer: "Wood-fired ovens are the most versatile. Because they hold residual heat for hours, you can start with high-heat pizzas and then use the cooling oven to bake bread, roast meats, or even slow-cook casseroles and desserts."
+  - question: "Is it cheaper to run a gas or wood-fired pizza oven?"
+    answer: "Generally, gas and electric are cheaper to run. A propane tank can last for dozens of sessions, costing about $1-2 per cook. Firewood costs vary but typically range from $5-15 per session depending on the quality and source of the wood."
 ---
 
 If you're shopping for a pizza oven, you've probably noticed there are three main types: wood fired, gas, and electric. Each one has its fans, and each one has trade-offs.

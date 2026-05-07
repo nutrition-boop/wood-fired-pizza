@@ -17,6 +17,7 @@ export interface PostMeta {
   category: string;
   tags: string[];
   readingTime: string;
+  faqs?: { question: string; answer: string }[];
 }
 
 export interface Post extends PostMeta {
@@ -51,6 +52,7 @@ export function getAllPosts(): PostMeta[] {
       category: data.category || 'General',
       tags: data.tags || [],
       readingTime: stats.text,
+      faqs: data.faqs || [],
     };
   });
 
@@ -93,6 +95,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     category: data.category || 'General',
     tags: data.tags || [],
     readingTime: stats.text,
+    faqs: data.faqs || [],
     content: contentHtml,
   };
 }

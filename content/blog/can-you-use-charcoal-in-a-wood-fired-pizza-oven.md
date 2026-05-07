@@ -6,6 +6,17 @@ coverImage: "/images/charcoal-oven.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Tips"
 tags: ["charcoal", "fuel", "tips", "wood fired"]
+faqs:
+  - question: "Is it safe to use charcoal in a wood-fired pizza oven?"
+    answer: "Yes, it is safe as long as you use high-quality lump charcoal. Avoid using standard briquettes, as they contain chemical binders and fillers that can ruin the flavor of your food and potentially damage the oven stones."
+  - question: "Why should I use both wood and charcoal together?"
+    answer: "Using charcoal provides a very stable, long-lasting base of heat for the oven floor, while wood provides the high-reaching flames and smoke needed to cook the top of the pizza and add flavor."
+  - question: "Can I use charcoal briquettes in my pizza oven?"
+    answer: "No. Briquettes are made with chemicals and binders that produce unpleasant odors and tastes. Stick to natural lump charcoal for the best and safest results."
+  - question: "Does charcoal change the flavor of the pizza?"
+    answer: "Charcoal provides a cleaner, more neutral heat than wood. While you'll get less of a 'smoky' flavor than with 100% hardwood, the results are still superior to what you'd get in a gas or electric oven."
+  - question: "Can I cook with only charcoal in a pizza oven?"
+    answer: "You can, but it's better for roasting or slow-cooking. Since charcoal doesn't produce much flame, it's harder to get the top of a pizza perfectly cooked without the addition of some hardwood logs."
 ---
 
 This is one of the most common questions we get: "Can I use charcoal in my wood fired pizza oven?"

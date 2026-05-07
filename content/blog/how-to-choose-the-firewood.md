@@ -6,6 +6,17 @@ coverImage: "/images/new/firewood.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Tips"
 tags: ["firewood", "tips", "oven maintenance", "wood types"]
+faqs:
+  - question: "What is the absolute best wood for a wood-fired pizza oven?"
+    answer: "Oak is widely considered the best choice. It is dense, burns very hot, provides a long-lasting coal bed, and has a neutral smoky flavor that doesn't overpower the pizza."
+  - question: "Can I use softwoods like pine or cedar in my pizza oven?"
+    answer: "No, you should strictly avoid softwoods. They contain high levels of sap and resin, which produce excessive soot, can cause creosote buildup, and impart a bitter, chemical taste to your food."
+  - question: "What is the ideal moisture content for pizza oven firewood?"
+    answer: "The ideal moisture content is between 15% and 20%. Wood that is too wet won't reach the necessary high temperatures, while wood that is too dry burns away too quickly."
+  - question: "Is kiln-dried wood better than seasoned wood?"
+    answer: "Yes, kiln-dried wood is generally superior because its moisture content is precisely controlled and it is guaranteed to be free of insects and mold, ensuring a cleaner and more consistent burn."
+  - question: "How much wood do I need for one pizza-making session?"
+    answer: "For a standard session, you'll typically need 5-10 pieces of kindling to start the fire and 3-5 medium-sized hardwood logs to reach and maintain cooking temperature."
 ---
 
 Choosing the right firewood is just as important as your dough recipe or your pizza-turning technique. If you use the wrong wood, you’ll struggle to reach the high temperatures needed for that perfect crust, and worse, you might ruin the flavor of your pizza with bitter smoke.

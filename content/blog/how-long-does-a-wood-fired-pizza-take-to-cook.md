@@ -6,6 +6,17 @@ coverImage: "/images/new/portable-oven.webp"
 author: "Wood Fired Pizza Oven Team"
 category: "Tips"
 tags: ["cooking time", "tips", "pizza", "timing"]
+faqs:
+  - question: "How fast does a pizza cook at 900°F?"
+    answer: "At a professional Neapolitan temperature of 900°F, a pizza typically cooks in just 60 to 90 seconds. This rapid cook time is what creates the perfect contrast between a charred exterior and a soft interior."
+  - question: "Does thick dough take longer to cook in a wood-fired oven?"
+    answer: "Yes. While thin Neapolitan dough takes 90 seconds, thicker styles like New York or pan pizza require lower temperatures (around 600°F) and longer cook times of 3 to 5 minutes to ensure the middle is fully baked."
+  - question: "Why do I need to rotate my pizza while it's cooking?"
+    answer: "The heat in a wood-fired oven is uneven because the fire is on one side. You must rotate the pizza 180 degrees halfway through (usually after 30-45 seconds) to ensure both sides of the crust cook evenly."
+  - question: "How do I know when my wood-fired pizza is done?"
+    answer: "Look for 'leopard spotting' (small dark charred circles) on the crust, bubbling cheese that has just begun to brown in spots, and a firm base that doesn't flop when lifted."
+  - question: "Can I cook multiple pizzas at the same time?"
+    answer: "Yes, if your oven floor is large enough. However, each pizza absorbs heat from the stone, so you may need to wait a minute or two between batches for the floor temperature to recover (re-charge)."
 ---
 
 One of the most amazing things about wood fired pizza ovens is how fast they cook. If you're used to waiting 10-15 minutes for your kitchen oven to finish a pizza, you're in for a serious upgrade.

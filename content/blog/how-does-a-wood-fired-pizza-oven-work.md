@@ -6,6 +6,17 @@ coverImage: "/images/wood-oven-works.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Guides"
 tags: ["how it works", "pizza oven", "wood fired", "beginner guide"]
+faqs:
+  - question: "What are the three types of heat in a wood-fired oven?"
+    answer: "A wood-fired oven uses conduction (heat from the floor to the base), convection (circulating hot air around the pizza), and radiant heat (heat reflected from the dome onto the top of the food)."
+  - question: "Why do pizza ovens have a dome shape?"
+    answer: "The dome shape is designed to reflect radiant heat back down onto the cooking surface and to create a natural circulation of hot air (convection), ensuring the pizza cooks evenly from all sides."
+  - question: "How long does it take for a wood-fired oven to heat up?"
+    answer: "Most full-sized brick ovens take between 45 and 90 minutes to fully reach cooking temperature. Portable ovens have less thermal mass and can heat up in as little as 15-20 minutes."
+  - question: "Does the oven stay hot after the fire is out?"
+    answer: "Yes. High-quality ovens are built with significant thermal mass (bricks and insulation) that absorbs and holds heat. This residual heat can be used for hours to bake bread or slow-roast meats."
+  - question: "What is the best material for a pizza oven floor?"
+    answer: "The floor is typically made of firebrick or a specialized refractory stone. These materials are chosen for their ability to absorb intense heat and release it steadily into the pizza dough without cracking."
 ---
 
 If you've ever eaten a pizza that came out of a wood fired oven, you probably noticed something right away — it just *tastes different*. The crust is crispy on the outside, soft and chewy on the inside, and there's this smoky flavor that no regular kitchen oven can give you.

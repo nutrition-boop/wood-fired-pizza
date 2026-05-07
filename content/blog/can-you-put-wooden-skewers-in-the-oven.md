@@ -6,6 +6,17 @@ coverImage: "/images/new/wooden-skewers.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Tips"
 tags: ["safety", "grilling", "skewers", "cooking tips"]
+faqs:
+  - question: "Can you put wooden skewers in a wood-fired pizza oven?"
+    answer: "Yes, but you must be extremely careful. Because these ovens reach temperatures over 800°F, wooden skewers will ignite almost instantly if they are dry. They should be soaked for at least 60 minutes and kept away from direct flames."
+  - question: "How long should I soak wooden skewers before using them?"
+    answer: "For a wood-fired oven, soak them for at least 60 minutes. Standard kitchen oven recommendations (20-30 mins) are not sufficient for the intense heat of a pizza oven."
+  - question: "Are metal skewers better for pizza ovens?"
+    answer: "Absolutely. Metal skewers are much safer and more durable in high-heat environments. They won't burn, and they help conduct heat into the center of the food."
+  - question: "Will bamboo skewers catch fire in the oven?"
+    answer: "Yes, bamboo is even more flammable than many woods. If you use bamboo, ensure the ends are covered with foil or buried deep inside the food to prevent them from catching fire."
+  - question: "Can I use wooden skewers for kabobs in a pizza oven?"
+    answer: "You can, but it's best to use a cast iron pan. Placing the skewers in a pan helps shield the wood from the direct radiant heat of the dome and the intense heat of the floor."
 ---
 
 Wooden skewers are a staple for backyard BBQs and indoor roasting alike. They’re cheap, convenient, and perfect for kabobs. But when you’re dealing with the extreme temperatures of a wood-fired pizza oven—which can easily hit 800°F (read more about [how hot pizza ovens get](/blog/how-hot-do-wood-fired-pizza-ovens-get))—the rules change.

@@ -6,6 +6,17 @@ coverImage: "/images/cook-in-oven.png"
 author: "Wood Fired Pizza Oven Team"
 category: "Recipes"
 tags: ["cooking", "recipes", "versatility", "wood fired"]
+faqs:
+  - question: "Can I bake bread in a wood-fired pizza oven?"
+    answer: "Absolutely. In fact, many people find that the best time to bake bread is after the pizza session is over. As the oven temperature drops to the 450-550°F range, the residual heat and thermal mass create a perfect environment for artisanal sourdough and focaccia."
+  - question: "Is a wood-fired oven good for cooking steaks?"
+    answer: "Yes, it's one of the best ways to cook a steak. The intense radiant heat (up to 800°F) sears the outside instantly, creating a restaurant-quality crust while keeping the inside perfectly juicy and tender. Use a cast-iron skillet for the best results."
+  - question: "Can I make desserts in a pizza oven?"
+    answer: "Yes! Fruit cobblers, crisps, and even chocolate lava cakes are delicious when cooked in the residual heat. The subtle smoky flavor adds a unique depth to sweet dishes that you simply can't get in a kitchen oven."
+  - question: "How do I cook vegetables in a wood-fired oven?"
+    answer: "Roast them at high temperatures (600-700°F) in a cast-iron pan with olive oil and herbs. The high heat caramelizes the natural sugars in vegetables like asparagus, peppers, and mushrooms very quickly, enhancing their flavor."
+  - question: "Can I slow-roast meats like pork shoulder in my pizza oven?"
+    answer: "Yes. After the main fire has died down and the oven is well-insulated, the temperature will stay in the 250-300°F range for hours. This is perfect for slow-cooking tough cuts of meat until they are fall-apart tender."
 ---
 
 Most people buy a wood fired pizza oven for one obvious reason — pizza. And yeah, the pizza you get out of one is absolutely incredible. But here's the thing most new owners don't realize: a wood fired oven is one of the most versatile cooking tools you can own.

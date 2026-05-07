@@ -6,6 +6,17 @@ coverImage: "/images/new/pizzone-oven.webp"
 author: "Wood Fired Pizza Oven Team"
 category: "Guides"
 tags: ["temperature", "heat", "cooking tips", "pizza oven"]
+faqs:
+  - question: "What is the maximum temperature a wood-fired pizza oven can reach?"
+    answer: "A well-built brick pizza oven can reach temperatures well over 1000°F (538°C). However, for most home cooking, the sweet spot is between 750°F and 900°F."
+  - question: "What is the best temperature for Neapolitan pizza?"
+    answer: "True Neapolitan pizza requires a floor temperature of at least 800°F (425°C) and an air temperature of 900°F (485°C) to cook the dough in 60 to 90 seconds."
+  - question: "How do I measure the temperature of my pizza oven?"
+    answer: "The most accurate way is to use an infrared thermometer gun. Point it at the center of the oven floor to get a reading. Do not rely on door-mounted thermometers, as they only measure the air temperature near the entrance."
+  - question: "Is 500°F hot enough for a pizza oven?"
+    answer: "500°F is the limit for most home ovens and is sufficient for New York-style pizza. However, a wood-fired oven at 500°F is considered 'cool' and is better suited for baking bread or roasting large joints of meat."
+  - question: "Why do pizza ovens need to be so hot?"
+    answer: "Intense heat causes 'oven spring,' which is the rapid expansion of gas in the dough that creates a light, airy crust. It also chars the outside of the dough quickly, providing flavor without drying out the inside."
 ---
 
 One of the first things people notice about wood fired pizza is how fast it cooks. We're talking 60 to 90 seconds. That's not a typo — under two minutes from raw dough to finished pizza.
