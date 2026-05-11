@@ -69,7 +69,7 @@ export default function CalculatorsHubPage() {
           <div style={{ marginTop: '60px', padding: '30px', background: 'rgba(255,255,255,0.03)', borderRadius: '16px', border: '1px solid var(--color-border)' }}>
             <h3>Nutritional Comparison</h3>
             <p>
-              While our tools focus on mastering the craft of homemade wood-fired pizza, understanding the nutritional profile of different styles is helpful for many. If you're comparing your artisan creations with commercial delivery options, the <a href="https://www.dominos.com/en/pages/content/nutritional/cal-o-meter" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-accent)', fontWeight: '600' }}>Domino's Calorie Calculator</a> is a useful external resource to see how delivery pizzas stack up in terms of calories and macronutrients.
+              While our tools focus on mastering the craft of homemade wood-fired pizza, understanding the nutritional profile of different styles is helpful for many. If you're comparing your artisan creations with commercial delivery options, the <a href="https://www.dominos.com/en/pages/content/nutritional/cal-o-meter" target="_blank" rel="noopener" style={{ color: 'var(--color-accent)', fontWeight: '600' }}>Domino's Calorie Calculator</a> is a useful external resource to see how delivery pizzas stack up in terms of calories and macronutrients.
             </p>
           </div>
         </div>

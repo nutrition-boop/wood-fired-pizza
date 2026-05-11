@@ -89,6 +89,33 @@ export default function HomePage() {
         </section>
       )}
 
+      {/* Tools Section */}
+      <section className="section" id="tools-section" style={{ background: 'var(--color-bg-offset)', borderRadius: '24px', padding: '60px 40px' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '60px', alignItems: 'center' }}>
+          <div>
+            <h2 className="section-title" style={{ textAlign: 'left', margin: '0' }}>Precision Pizza <span>Calculators</span></h2>
+            <p style={{ fontSize: '1.1rem', margin: '20px 0 30px', color: 'var(--color-text-muted)' }}>
+              Mastering wood-fired pizza starts with the perfect dough. Our professional-grade calculators help you balance hydration, salt, and yeast for authentic Neapolitan, Poolish, and Biga styles.
+            </p>
+            <Link href="/calculators" className="btn btn-primary" style={{ display: 'inline-block', padding: '12px 30px', borderRadius: '50px', background: 'var(--color-accent)', color: 'white', textDecoration: 'none', fontWeight: '600' }}>
+              Explore All Calculators →
+            </Link>
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px' }}>
+            <div style={{ background: 'rgba(255,255,255,0.05)', padding: '20px', borderRadius: '16px', border: '1px solid var(--color-border)' }}>
+              <span style={{ fontSize: '2rem' }}>🍕</span>
+              <h4 style={{ margin: '10px 0' }}>Dough Math</h4>
+              <p style={{ fontSize: '0.9rem', color: 'var(--color-text-muted)' }}>Perfect hydration every time.</p>
+            </div>
+            <div style={{ background: 'rgba(255,255,255,0.05)', padding: '20px', borderRadius: '16px', border: '1px solid var(--color-border)' }}>
+              <span style={{ fontSize: '2rem' }}>⚖️</span>
+              <h4 style={{ margin: '10px 0' }}>Baker's %</h4>
+              <p style={{ fontSize: '0.9rem', color: 'var(--color-text-muted)' }}>Scale recipes with precision.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Newsletter */}
       <section className="section" id="newsletter-section">
         <div className="newsletter">
